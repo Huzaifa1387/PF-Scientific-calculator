@@ -11,3 +11,7 @@ Added Functionality for Arithmetic Operations.
 Version 2 changes:
 
 Added Functionality for Trigonometric Operations.
+
+Version 3 changes:
+
+Added Functionality for Algebraic Operations.
