@@ -15,3 +15,7 @@ Added Functionality for Trigonometric Operations.
 Version 3 changes:
 
 Added Functionality for Algebraic Operations.
+
+Version 4 changes:
+
+Added Functionality for Logarithmic Operations.
